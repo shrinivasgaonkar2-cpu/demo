@@ -1,5 +1,7 @@
 # demo
-This is the second repository , made for demo and practice.
-<br>
-Author : Shrinivas Santosh Gaonkar
+This is a simple demo project created to learn and practice Git features such as commits, branching, merging, and pull requests.
+
+It is intended as a hands-on example for understanding version control basics in a lightweight repository.
+
+Author: Shrinivas Santosh Gaonkar
 
